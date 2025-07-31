@@ -13,6 +13,12 @@ Dados públicos do ENEM extraídos de [INEP]((https://www.gov.br/inep/pt-br/aces
 - Diferenças entre tipos de escola (exterior, pública e privada)
 - Desempenho por regiões e estados
 
+## Visualizações
+ ![Gráfico 1](images/media-matematica-sexo.png)
+ ![Gráfico 2](images/nota-redacao-sexo.png)
+ ![Gráfico 3](images/media-matematica-escola.png)
+ ![Gráfico 4](images/desempenho-media-regiao.png)
+
 ## Como executar
 
 Abra o notebook no Google Colab para reproduzir as análises.
