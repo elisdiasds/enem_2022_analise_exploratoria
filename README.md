@@ -1,4 +1,4 @@
-# Análise Exploratória das Notas do ENEM
+# Análise Exploratória das Notas do ENEM 2022
 
 Este projeto realiza uma análise exploratória das notas do ENEM, focando em Matemática e Redação, segmentadas por sexo, renda, tipo de escola, região e estado.
 
