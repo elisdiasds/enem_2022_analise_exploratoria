@@ -27,3 +27,6 @@ Abra o notebook no Google Colab para reproduzir as análises.
 ## Conclusão
 
 A análise dos dados do ENEM indicou variações significativas nas notas de matemática e redação por sexo, renda, tipo de escola e região. Alunos de escolas privadas, com maior renda e das regiões Sudeste e Sul apresentam desempenho superior. Essas diferenças evidenciam desigualdades educacionais que podem orientar políticas públicas para melhoria do ensino e redução das disparidades.
+
+## 🙋‍♀️ **Sobre mim**
+Elisângela Dias Silva • Dados & Insights | [LinkedIn](https://www.linkedin.com/in/elisangeladias-dados/) • [Kaggle](https://www.kaggle.com/elisdias)
